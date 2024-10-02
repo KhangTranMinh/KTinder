@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KTinder</string>
+    <string name="label_details">Details</string>
+    <string name="label_super_like">Super Like</string>
+</resources>
